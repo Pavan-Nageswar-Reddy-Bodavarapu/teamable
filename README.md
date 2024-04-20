@@ -8,3 +8,6 @@ This is an Vue application to manage Employee details.
 ## Pack the application
 
     npm pack
+
+
+Application is running on port 3000
