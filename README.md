@@ -1,5 +1,5 @@
 # teamable
-This is an Vue application to manage Employee details.
+This is an Vue application to manage the Office employee details.
 
 ## Test the application
 
